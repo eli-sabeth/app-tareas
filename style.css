@@ -1,0 +1,29 @@
+.centroa{
+    text-align: center;
+    font-size: large;
+    color: white;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+textarea{
+    overflow: scroll;
+}
+
+a:hover{
+    color: white;
+}
+
+.texta{
+    margin-top: 50px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.lista{
+    margin-top: 20px;
+}
+
+.scroll{
+    overflow: scroll;
+}
